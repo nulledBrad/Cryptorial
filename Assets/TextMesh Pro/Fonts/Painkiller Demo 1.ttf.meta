@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c88b5b072e32e434cae48c2d736cc9b5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Painkiller - Demo
+  fontNames:
+  - Painkiller - Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d7c78b153cd0f648a181557d7da3c21, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
